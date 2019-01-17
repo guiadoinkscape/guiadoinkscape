@@ -4,4 +4,4 @@ A origem do Inkscape remonta o ano de 2003, quando sua primeira versão foi lan�
 
 A versão mais atual é a  0.91 e atualmente está disponível para quase todas as plataformas, incluindo GNU/Linux, MAC OS e MS Windows. Entre os autores originais estão quatro membros do antigo Sodipodi, Bryce Harrington, Josh Andler, Krzysztof Kosiński e Ted Gould. O nome Inkscape vem da junção das palavras “*Ink*” = tinta em inglês e “*scape*” = paisagem. 
 
-![Inkscape.logo](/home/yan/Inkscape.logo.svg)
+![Inkscape.logo](/home/yan/Projetos/guiadoinkscape/imgs/Inkscape.logo.svg)
