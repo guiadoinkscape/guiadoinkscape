@@ -1,4 +1,4 @@
-**Introdução**
+# **Introdução**
 
 Quem nunca se pegou rabiscando algum desenho em um pedaço de papel, algo que possa ter surgido de um sonho, de um planejamento, uma paisagem, ou até como forma de presente para o amor, algo que tenha sido a transformação de um modelo imaginável em algum modelo inicial visível. Este livro lhe trará a possibilidade de elevar seu nível de iniciante a de um ilustrador pronto para criações de impressões físicas ou para gráficos na Internet. Perceberá ao longo da leitura e das práticas que não será preciso ter conhecimento prévio para criar gráficos vetoriais de qualidade, que a simplicidade e a flexibilidade do Inkscape o impressionará a cada resultado.
 

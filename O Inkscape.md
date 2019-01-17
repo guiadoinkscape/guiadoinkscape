@@ -1,0 +1,7 @@
+# Uma super-ferramenta
+
+A origem do Inkscape remonta o ano de 2003, quando sua primeira versão foi lançada como sendo uma derivação do velho sodipodi, um software também voltado para edição vetorial que teve seu desenvolvimento encerrado com a origem do Inkscape. Devido a qualidade do seu código fonte, o Inkscape consegue executar mesmo as tarefas mais pesadas em uma velocidade surpreendente se comparado a outros softwares. O tamanho do download não pesa mais do que 93MB (menor ainda se estivermos falando da versão para Linux), o que o torna um dos menores pacotes de software dessa natureza. Além disso, a qualidade no código também favorece ao uso do Inkscape mesmo em computadores medianos, não sendo necessário ter uma máquina potente para funcionar.
+
+A versão mais atual é a  0.91 e atualmente está disponível para quase todas as plataformas, incluindo GNU/Linux, MAC OS e MS Windows. Entre os autores originais estão quatro membros do antigo Sodipodi, Bryce Harrington, Josh Andler, Krzysztof Kosiński e Ted Gould. O nome Inkscape vem da junção das palavras “*Ink*” = tinta em inglês e “*scape*” = paisagem. 
+
+![Inkscape.logo](/home/yan/Inkscape.logo.svg)
